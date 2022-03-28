@@ -11,7 +11,6 @@
   inputs.src-nico-main.ref   = "refs/heads/main";
   inputs.src-nico-main.owner = "ftsf";
   inputs.src-nico-main.repo  = "nico";
-  inputs.src-nico-main.dir   = "";
   inputs.src-nico-main.type  = "github";
   
   inputs."sdl2_nim".owner = "nim-nix-pkgs";
